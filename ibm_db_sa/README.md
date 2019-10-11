@@ -29,20 +29,26 @@ Application Kit community portal:
 Please follow the steps provided to Install "Easy Install" in the link above and follow up with these additional steps to install IBM_DB_SA:
 
   1. To install IBM_DB_SA from pypi repository(pypi.python.org):
+  ```
     Windows:
       > pip install ibm_db_sa
     Linux/Unix:
       $ sudo pip install ibm_db_sa
+   ```
   
   2. To install IBM_DB_SA egg component from the downloaded .egg file
+  ```
     Windows:
       > easy_install ibm_db_sa-x.x.x-pyx.x.egg
     Linux/Unix:
       $ sudo easy_install ibm_db_sa-x.x.x-pyx.x.egg
+  ```
   
-  3. To install IBM_DB_SA from source
+  3. To install IBM_DB_SA from source.
+  ```
     Standard Python setup should be used::
         python setup.py install
+  ```
 
 Connecting
 ----------
