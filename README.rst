@@ -1,1 +1,1 @@
-ibm_db_sa/README.rst
+ibm_db_sa/README.md
